@@ -1,7 +1,7 @@
 name: angular_app
-description: A web app that uses AngularDart
+description: An online web app that uses AngularDart to model riverine streams water quality
 version: 0.0.1
-
+Auhtor: Mostafa Ramezani
 environment:
   sdk: '>=2.0.0 <3.0.0'
 
